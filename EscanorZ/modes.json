@@ -1,0 +1,24 @@
+{
+  "modes": [
+    {
+      "name": "ดูดหัว ลดดีด ลดกระจาย",
+      "url": "https://github.com/2439CH/dino/raw/main/EscanorZ/1/ExEWarZ.exe"
+	  "filename": "ExEWarZ.exe"
+    },
+    {
+      "name": "ดูดหัว ลดดีด ลดกระจาย ลูกเบิ้ล 2",
+      "url": "https://github.com/2439CH/dino/raw/main/EscanorZ/2/ExEWarZ.exe"
+	  "filename": "ExEWarZ.exe"
+    },
+    {
+      "name": "ดูดหัว ลดดีด ลดกระจาย ลูกเบิ้ล 3",
+      "url": "https://github.com/2439CH/dino/raw/main/EscanorZ/3/ExEWarZ.exe"
+	  "filename": "ExEWarZ.exe"
+    },
+    {
+      "name": "ดูดหัว ลดดีด ลดกระจาย ลูกเบิ้ล 4",
+      "url": "https://github.com/2439CH/dino/raw/main/EscanorZ/4/ExEWarZ.exe"
+	  "filename": "ExEWarZ.exe"
+    }
+  ]
+}
