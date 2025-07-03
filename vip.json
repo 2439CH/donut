@@ -1,0 +1,44 @@
+{
+  "groups": [
+    {
+      "name": "EscanorZ : ✓",
+      "url": "https://raw.githubusercontent.com/2439CH/donut/main/EscanorZ/modes.json"
+    },
+    {
+      "name": "NamthipZ : ✓",
+      "url": "https://raw.githubusercontent.com/2439CH/donut/main/NamthipZ/modes.json"
+    },
+    {
+      "name": "5G : ✓",
+      "url": "https://raw.githubusercontent.com/2439CH/donut/main/5G/modes.json"
+    },
+    {
+      "name": "iFATz : Updating",
+      "url": "https://raw.githubusercontent.com/2439CH/donut/main/modes.json"
+    },
+    {
+      "name": "SIAM MMO : Updating",
+      "url": "https://raw.githubusercontent.com/2439CH/donut/main/modes.json"
+    },
+    {
+      "name": "RetrospectZ : Updating",
+      "url": "https://raw.githubusercontent.com/2439CH/donut/main/modes.json"
+    },
+    {
+      "name": "ToyStoryZ : Updating",
+      "url": "https://raw.githubusercontent.com/2439CH/donut/main/modes.json"
+    },
+    {
+      "name": "40Z : Updating",
+      "url": "https://raw.githubusercontent.com/2439CH/donut/main/modes.json"
+    },
+    {
+      "name": "JapanZ : Updating",
+      "url": "https://raw.githubusercontent.com/2439CH/donut/main/modes.json"
+    },
+    {
+      "name": "KomaZ : Updating",
+      "url": "https://raw.githubusercontent.com/2439CH/donut/main/modes.json"
+    }
+  ]
+}
